@@ -24,9 +24,7 @@ Krabo is a minimalist air pistol application specifically designed for legacy An
 ### Build Steps
 
 1. Clone the repository
-   ```bash
-   git clone https://github.com/your-username/Krabo.git
-```
+git clone https://github.com/your-username/Krabo.git
 2. Open the project in Android Studio and wait for Gradle synchronization to complete.
 3. Prepare the required resource files (see below).
 4. Connect your Android watch or start an emulator running API 21 or higher.
