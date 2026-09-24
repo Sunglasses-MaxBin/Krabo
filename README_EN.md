@@ -23,7 +23,7 @@ Krabo is a minimalist air pistol application specifically designed for legacy An
 
 ### Build Steps
 
-1. Clone the repository:
+1. Clone the repository
    ```bash
    git clone https://github.com/your-username/Krabo.git
 ```
