@@ -44,6 +44,6 @@ Krabo 是一个专为 Android 5.0 及以上版本的老旧安卓手表设计的�
   · role1.png
   · role2.png
 
-#开源协议
 
+##开源协议
 本项目采用 MIT License 协议开源。详见 LICENSE 文件。
