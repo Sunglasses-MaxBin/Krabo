@@ -25,6 +25,7 @@ Krabo 是一个专为 Android 5.0 及以上版本的老旧安卓手表设计的�
    ```bash
    git clone https://github.com/你的用户名/Krabo.git
 ```
+
 2. 使用 Android Studio 打开项目，等待 Gradle 同步完成。
 3. 准备应用所需的资源文件（见下方说明）。
 4. 连接你的安卓手表，或启动一个 API 21 及以上的模拟器。
@@ -43,6 +44,6 @@ Krabo 是一个专为 Android 5.0 及以上版本的老旧安卓手表设计的�
   · role1.png
   · role2.png
 
-##开源协议
+###开源协议
 
 本项目采用 MIT License 协议开源。详见 LICENSE 文件。
