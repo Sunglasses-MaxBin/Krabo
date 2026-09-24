@@ -4,7 +4,7 @@ English | [简体中文](README.md)
 
 Krabo is a minimalist air pistol application specifically designed for legacy Android watches running Android 5.0 and above. Inspired by the viral "Crab acto", it aims to fill the gap for interactive apps on low-spec Android wearables.
 
-## Key Selling Points
+## Software Features
 
 - **Built for Legacy Devices**: Supports Android 5.0+ (API 21), perfectly optimized for low-performance and low-memory Android watches.
 - **Minimalist Design**: Features a pure black background with white text. No redundant elements, ensuring clarity on small watch screens.
@@ -23,7 +23,7 @@ Krabo is a minimalist air pistol application specifically designed for legacy An
 
 ### Build Steps
 
-1. Clone the repository:
+1. Clone the repository (replace the link with your own):
    ```bash
    git clone https://github.com/your-username/Krabo.git
 ```
