@@ -83,10 +83,10 @@ class MainActivity : Activity(), SensorEventListener {
         currentRole = if (currentRole == 0) 1 else 0
         
         if (currentRole == 0) {
-            tvRoleName.text = "曼波"
+            tvRoleName.text = "role1"
             ivRoleIcon.setImageResource(R.drawable.role1) // 换成角色1的贴图
         } else {
-            tvRoleName.text = "我的刀盾"
+            tvRoleName.text = "role2"
             ivRoleIcon.setImageResource(R.drawable.role2) // 换成角色2的贴图
         }
     }
