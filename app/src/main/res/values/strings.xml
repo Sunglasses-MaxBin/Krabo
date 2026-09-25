@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Krabo</string>
+    <string name="hello_world">Hello, World!</string>
+    <string name="left">⬅️</string>
+    <string name="right">➡️</string>
+    <string name="lorr">左右切换</string>
+    <string name="role1">role1 </string>
+    <string name="role2">role2 </string>
+    <string name="huiquan">点击或挥拳</string>
+</resources>
